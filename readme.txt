@@ -6,3 +6,4 @@ Creating a new branch is quick.
 old overwrite new.
 Creating a new branch is quick and simple.
 Merge without fast forward.
+Fix bug 101.
