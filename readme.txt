@@ -7,3 +7,4 @@ old overwrite new.
 Creating a new branch is quick and simple.
 Merge without fast forward.
 Add coding: utf-8.
+Add /home/zuozc/study/git/learngit.
